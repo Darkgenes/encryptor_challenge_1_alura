@@ -49,7 +49,6 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
     <li><a href="#contributing">Problemas conocidos || Known Issues</a></li>
     <li><a href="#license">Licencia || License</a></li>
     <li><a href="#contact">Contacto || Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 

@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name = "readme-top"></a>
 
 <!--
 This was based in Best-README-Template[https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top], and [https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md] 
@@ -52,7 +52,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
   </ol>
 </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href = "#readme-bottom">go to bottom</a>)</p>
 # =======================================
 
 # 1. Introducción || Introduction
@@ -89,7 +89,7 @@ El resultado deberá ser mostrado en la pantalla. ||Result should be displayed o
 
 Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del "ctrl + c" o de la opción "copiar" del menú de aplicaciones. || A button that copies encrypted/decrypted text for transfer section, that is, it shall have the same functionality as "ctrl+ c" or the "copy" option, in the application menu.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 3. Instalación || Installation:
 
@@ -97,6 +97,8 @@ Para instalar My Awesome App, sigue estos pasos:
 - Descarga el paquete de instalación de nuestro sitio web (www.myawesomeapp.com).
 - Ejecuta el instalador y sigue las instrucciones en pantalla.
 - Una vez completada la instalación, ¡ya estás listo para usar la app!
+
+<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 4. Uso || Usage:
 
@@ -106,7 +108,7 @@ Usar My Awesome App es muy sencillo. Estos son los pasos básicos:
 - Personaliza los ajustes de la aplicación según tus preferencias.
 - Empieza a utilizar las distintas funciones y ¡disfruta de sus ventajas!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 5. Características || Features:
 ------------
@@ -117,7 +119,7 @@ My Awesome App ofrece las siguientes características clave:
 - Característica 4: Mencione la cuarta característica y por qué destaca.
 - Característica 5: Proporcione detalles sobre la quinta característica y sus ventajas.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 6. Problemas conocidos || Known Issues:
 Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos problemas conocidos en esta versión de My Awesome App:
@@ -125,18 +127,20 @@ Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos 
 - Problema 2: Explica el segundo problema conocido y las soluciones disponibles.
 - Problema 3: Destaque el tercer problema conocido y su fecha de resolución prevista.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 7. Licencia || License:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 8. Contacto || Contact:
 Para cualquier pregunta, duda o comentario, ponte en contacto con el siguiente canal: || For any questions, doubts or comments, please contact the following channel:
 - Correo electrónico || email: cristhiam2000g@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 En la medida en que la ley lo permite, Darkgenes ha renunciado a todos los derechos de autor y derechos afines o conexos sobre esta obra. || To the extent possible under law, Darkgenes has waived all copyright and related or neighboring rights to this work.
+
+<a name = "readme-bottom"></a>
 

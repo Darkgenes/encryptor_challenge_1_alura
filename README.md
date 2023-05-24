@@ -24,7 +24,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 
 # =======================================
 
-# Nombre del Proyecto || Project Name: Encryptor_Challenge
+<h1>Nombre del Proyecto || Project Name: Encryptor_Challenge</h1>
 # Versión || Version: 1.0.0
 # Fecha || Date: 23/05/2023
 

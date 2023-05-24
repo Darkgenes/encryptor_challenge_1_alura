@@ -38,10 +38,8 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
     </li>
     <li>
       <a href = "#getting-started">Indicaciones del curso ONE. || ONE course indications</a>
-      <li>
         <li><a href="#prerequisites">Requisitos: || Requirements</a></li>
         <li><a href="#installation">Extras:</a></li>
-      </li>
     </li>
     <li><a href="#roadmap">Instalación || Installation</a></li>
     <li><a href="#usage">Uso || Usage</a></li>

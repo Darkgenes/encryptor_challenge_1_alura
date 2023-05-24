@@ -4,6 +4,13 @@
 This was based in Best-README-Template[https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top]. 
 -->
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Nombre del Proyecto || Project Name: Encryptor_Challenge
 # Versión || Version: 1.0.0
 # Fecha || Date: 23/05/2023

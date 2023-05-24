@@ -1,7 +1,3 @@
-# =======================================
-#           README.TXT
-# =======================================
-
 <a name="readme-top"></a>
 
 # Nombre del Proyecto || Project Name: Encryptor_Challenge

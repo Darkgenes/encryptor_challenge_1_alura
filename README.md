@@ -24,9 +24,9 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 
 # =======================================
 
-<h1>Nombre del Proyecto: || Project Name: Encryptor_Challenge</h1>
-<h2>Versión: || Version: 1.0.0</h2>
-<h2>Fecha: || Date: 23/05/2023</h2>
+<h2>Nombre del Proyecto || Project Name: Encryptor_Challenge</h2>
+<h3>Versión || Version: 1.0.0</h3>
+<h3>Fecha || Date: 23/05/2023</h3>
 
 # =======================================
 
@@ -37,9 +37,9 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
       <a href = "#about-the-project">Introducción || Introduction</a>
     </li>
     <li>
-      <a href = "#getting-started">Indicaciones del curso ONE. || ONE course indications</a>
+      <a href = "#getting-started">Indicaciones del curso ONE || ONE course indications</a>
       <ul>
-        <li><a href="#prerequisites">Requisitos: || Requirements</a></li>
+        <li><a href="#prerequisites">Requisitos || Requirements</a></li>
         <li><a href="#installation">Extras:</a></li>
       </ul>
     </li>

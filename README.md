@@ -156,7 +156,7 @@ En la medida en que la ley lo permite, Darkgenes ha renunciado a todos los derec
 ## 8. Contacto || Contact:
 
 Para cualquier pregunta, duda o comentario, ponte en contacto con el siguiente canal: || For any questions, doubts or comments, please contact the following channel:
-- Correo electrónico || email: cristhiam2000g@gmail.com
+- Correo electrónico || email: cristhiam.060201@gmail.com
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 

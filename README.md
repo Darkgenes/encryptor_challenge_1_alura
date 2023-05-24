@@ -4,7 +4,25 @@
 This was based in Best-README-Template[https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top], and [https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md] 
 -->
 
-<a href="https://github.com/Darkgenes/encryptor_challenge_1_alura/stargazers"><img src="https://img.shields.io/github/stars/Darkgenes/encryptor_challenge_1_alura" alt="Stars Badge"/></a>
+<!-- Project Shields -->
+
+<!-- Stars -->
+<a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/stargazers"><img src = "https://img.shields.io/github/stars/Darkgenes/encryptor_challenge_1_alura" alt = "Stars Badge"/></a>
+
+<!-- Forks -->
+<a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/network/members"><img src = "https://img.shields.io/github/forks/Darkgenes/encryptor_challenge_1_alura" alt = "Forks Badge"/></a>
+
+<!-- Pull requests -->
+<a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/pulls"><img src = "https://img.shields.io/github/issues-pr/Darkgenes/encryptor_challenge_1_alura" alt = "Pull Requests Badge"/></a>
+
+<!-- Issues -->
+<a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/issues"><img src = "https://img.shields.io/github/issues/Darkgenes/encryptor_challenge_1_alura" alt = "Issues Badge"/></a>
+
+<!-- Contribuitors -->
+<a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/graphs/contributors"><img alt = "GitHub contributors" src = "https://img.shields.io/github/contributors/Darkgenes/encryptor_challenge_1_alura?color=2b9348"></a>
+
+<!-- License -->
+<a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/blob/master/LICENSE"><img src = "https://img.shields.io/github/license/Darkgenes/encryptor_challenge_1_alura?color=2b9348" alt = "License Badge"/></a>
 
 # Nombre del Proyecto || Project Name: Encryptor_Challenge
 # Versión || Version: 1.0.0

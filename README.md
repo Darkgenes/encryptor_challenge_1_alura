@@ -18,7 +18,8 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 <!-- Contribuitors -->
 <a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/graphs/contributors"><img alt = "GitHub contributors" src = "https://img.shields.io/github/contributors/Darkgenes/encryptor_challenge_1_alura?color=2b9348"></a>
 <!-- License -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/blob/main/LICENSE.txt"><img src = "https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme](https://img.shields.io/badge/License-MIT-yellow.svg)" alt="License Badge"/></a>
+
 </div>  
   
 # Nombre del Proyecto || Project Name: Encryptor_Challenge

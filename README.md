@@ -91,9 +91,7 @@ Para cualquier pregunta, duda o comentario, ponte en contacto con el siguiente c
 - Correo electrónico || email: cristhiam2000g@gmail.com
 
 # 8. Licencia || License:
-![Public_Domain_Mark_button svg](https://github.com/Darkgenes/encryptor_challenge_1_alura/assets/88634132/81d5aecb-4518-4ee9-b91d-213d296b1797)
-
-https://creativecommons.org/publicdomain/zero/1.0/
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 En la medida en que la ley lo permite, Darkgenes ha renunciado a todos los derechos de autor y derechos afines o conexos sobre esta obra. || To the extent possible under law, Darkgenes has waived all copyright and related or neighboring rights to this work.
 

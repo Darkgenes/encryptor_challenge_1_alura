@@ -34,10 +34,10 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
   <summary><b>Tabla de contenidos || Table of contents:</b></summary>
   <ol>
     <li>
-      <a href = "#-1.-Introducción-||-Introduction">Introducción || Introduction</a>
+      <a href = "#1-introducción--introduction">Introducción || Introduction</a>
     </li>
     <li>
-      <a href = "#getting-started">Indicaciones del curso ONE || ONE course indications</a>
+      <a href = "#2-indicaciones-del-curso-one--one-course-indications">Indicaciones del curso ONE || ONE course indications</a>
       <ul>
         <li><a href="#prerequisites">Requisitos || Requirements</a></li>
         <li><a href="#installation">Extras:</a></li>

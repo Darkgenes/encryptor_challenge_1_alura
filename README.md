@@ -21,22 +21,38 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 <a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/blob/main/LICENSE.txt"><img src = "https://img.shields.io/badge/License-MIT-yellow.svg" alt = "License Badge"/></a>
 
 </div>  
-  
+
+# =======================================
+
 # Nombre del Proyecto || Project Name: Encryptor_Challenge
 # Versión || Version: 1.0.0
 # Fecha || Date: 23/05/2023
 
 # =======================================
 
-# Tabla de contenidos || Table of contents:
-1. Introducción || Introduction.
-2. Indicaciones del curso ONE. || ONE course indications.
-3. Instalación || Installation.
-4. Utilización || Usage.
-5. Características || Features.
-6. Problemas conocidos || Known Issues.
-7. Soporte || Support.
-8. Licencia || License. 
+<details>
+  <summary><b>Tabla de contenidos || Table of contents:</b></summary>
+  <ol>
+    <li>
+      <a href = "#about-the-project">Introducción || Introduction</a>
+    </li>
+    <li>
+      <a href = "#getting-started">Indicaciones del curso ONE. || ONE course indications</a>
+      <ul>
+        <li><a href="#prerequisites">Requisitos: || Requirements</a></li>
+        <li><a href="#installation">Extras:</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Instalación || Installation</a></li>
+    <li><a href="#usage">Uso || Usage</a></li>
+    <li><a href="#contributing">Características || Features</a></li>
+    <li><a href="#contributing">Problemas conocidos || Known Issues</a></li>
+    <li><a href="#license">Licencia || License</a></li>
+    <li><a href="#contact">Contacto || Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 # =======================================
 
@@ -105,7 +121,6 @@ My Awesome App ofrece las siguientes características clave:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 6. Problemas conocidos || Known Issues:
-----------------
 Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos problemas conocidos en esta versión de My Awesome App:
 - Problema 1: Describe el primer problema conocido y su impacto.
 - Problema 2: Explica el segundo problema conocido y las soluciones disponibles.
@@ -113,15 +128,14 @@ Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 7. Soporte || Support:
------------
-Para cualquier pregunta, duda o comentario, ponte en contacto con el siguiente canal: || For any questions, doubts or comments, please contact the following channel:
-- Correo electrónico || email: cristhiam2000g@gmail.com
+# 7. Licencia || License:
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 8. Licencia || License:
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+# 8. Contacto || Contact:
+Para cualquier pregunta, duda o comentario, ponte en contacto con el siguiente canal: || For any questions, doubts or comments, please contact the following channel:
+- Correo electrónico || email: cristhiam2000g@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

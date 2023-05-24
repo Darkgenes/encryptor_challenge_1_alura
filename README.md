@@ -73,6 +73,8 @@ Las "llaves" de encriptación que utilizaremos son las siguientes: || The crypto
 
 # 2. 1. Requisitos: || Requirements
 
+Aquí los requisitos señalados por el curso: || Here are the course requirements:
+
 * Debe funcionar solo con letras minúsculas. || It must work only with lowercase letters.
 
 * No deben ser utilizados letras con acentos ni caracteres especiales. || It must not be used either accented letters or special characters.

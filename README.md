@@ -6,6 +6,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 
 <!-- Project Shields -->
 
+<div align = "center">
 <!-- Stars -->
 <a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/stargazers"><img src = "https://img.shields.io/github/stars/Darkgenes/encryptor_challenge_1_alura" alt = "Stars Badge"/></a>
 
@@ -24,6 +25,8 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 <!-- License -->
 <a href = "https://github.com/Darkgenes/encryptor_challenge_1_alura/blob/master/LICENSE"><img src = "https://img.shields.io/github/license/Darkgenes/encryptor_challenge_1_alura?color=2b9348" alt = "License Badge"/></a>
 
+</div>  
+  
 # Nombre del Proyecto || Project Name: Encryptor_Challenge
 # Versión || Version: 1.0.0
 # Fecha || Date: 23/05/2023

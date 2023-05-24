@@ -34,7 +34,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
   <summary><b>Tabla de contenidos || Table of contents:</b></summary>
   <ol>
     <li>
-      <a href = "#about-the-project">Introducción || Introduction</a>
+      <a href = "#-1.-Introducción-||-Introduction">Introducción || Introduction</a>
     </li>
     <li>
       <a href = "#getting-started">Indicaciones del curso ONE || ONE course indications</a>
@@ -55,7 +55,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 <p align = "right">(<a href = "#readme-bottom">go to bottom</a>)</p>
 # =======================================
 
-# 1. Introducción || Introduction
+## 1. Introducción || Introduction
 
 Se trata de una aplicación sencilla que encripta textos. Primer Challenge; grupo 5 de ONE (Alura + Oracle) llamado "Sprint 01: Construye un encriptador de texto con Javascript". || It's about a basic App that encrypts texts. First Challenge; ONE group 5 (Alura + Oracle) called: "Sprint 01: Build a text encryptor with Javascript". 
 

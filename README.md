@@ -39,16 +39,16 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
     <li>
       <a href = "#2-indicaciones-del-curso-one--one-course-indications">Indicaciones del curso ONE || ONE course indications</a>
       <ul>
-        <li><a href="#prerequisites">Requisitos || Requirements</a></li>
-        <li><a href="#installation">Extras:</a></li>
+        <li><a href = "#2-1-requisitos--requirements">Requisitos || Requirements</a></li>
+        <li><a href = "#2-2-extras">Extras:</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Instalación || Installation</a></li>
-    <li><a href="#usage">Uso || Usage</a></li>
-    <li><a href="#contributing">Características || Features</a></li>
-    <li><a href="#contributing">Problemas conocidos || Known Issues</a></li>
-    <li><a href="#license">Licencia || License</a></li>
-    <li><a href="#contact">Contacto || Contact</a></li>
+    <li><a href = "#3-instalación--installation">Instalación || Installation</a></li>
+    <li><a href = "#4-uso--usage">Uso || Usage</a></li>
+    <li><a href = "#5-características--features">Características || Features</a></li>
+    <li><a href = "#6-problemas-conocidos--known-issues">Problemas conocidos || Known Issues</a></li>
+    <li><a href = "#7-licencia--license">Licencia || License</a></li>
+    <li><a href = "#8-contacto--contact">Contacto || Contact</a></li>
   </ol>
 </details>
 

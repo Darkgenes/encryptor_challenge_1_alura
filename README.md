@@ -1,15 +1,10 @@
 <a name="readme-top"></a>
 
 <!--
-This was based in Best-README-Template[https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top]. 
+This was based in Best-README-Template[https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top], and [https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md] 
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<a href="https://github.com/Darkgenes/encryptor_challenge_1_alura/stargazers"><img src="https://img.shields.io/github/stars/Darkgenes/encryptor_challenge_1_alura" alt="Stars Badge"/></a>
 
 # Nombre del Proyecto || Project Name: Encryptor_Challenge
 # Versión || Version: 1.0.0

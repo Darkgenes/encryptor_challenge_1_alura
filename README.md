@@ -126,7 +126,7 @@ Usar My Awesome App es muy sencillo. Estos son los pasos básicos:
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 5. Características || Features:
-------------
+
 My Awesome App ofrece las siguientes características clave:
 - Característica 1: Describe la primera característica y su funcionalidad.
 - Característica 2: Explica la segunda característica y su utilidad.
@@ -137,6 +137,7 @@ My Awesome App ofrece las siguientes características clave:
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 6. Problemas conocidos || Known Issues:
+
 Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos problemas conocidos en esta versión de My Awesome App:
 - Problema 1: Describe el primer problema conocido y su impacto.
 - Problema 2: Explica el segundo problema conocido y las soluciones disponibles.
@@ -145,17 +146,16 @@ Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 7. Licencia || License:
+
+En la medida en que la ley lo permite, Darkgenes ha renunciado a todos los derechos de autor y derechos afines o conexos sobre esta obra. || To the extent possible under law, Darkgenes has waived all copyright and related or neighboring rights to this work.
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 # 8. Contacto || Contact:
+
 Para cualquier pregunta, duda o comentario, ponte en contacto con el siguiente canal: || For any questions, doubts or comments, please contact the following channel:
 - Correo electrónico || email: cristhiam2000g@gmail.com
 
-<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
-
-En la medida en que la ley lo permite, Darkgenes ha renunciado a todos los derechos de autor y derechos afines o conexos sobre esta obra. || To the extent possible under law, Darkgenes has waived all copyright and related or neighboring rights to this work.
-
 <a name = "readme-bottom"></a>
-

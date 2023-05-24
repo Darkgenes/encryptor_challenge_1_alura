@@ -61,7 +61,7 @@ Se trata de una aplicación sencilla que encripta textos. Primer Challenge; grup
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-# 2. Indicaciones del curso ONE || ONE course indications
+## 2. Indicaciones del curso ONE || ONE course indications
 
 Las "llaves" de encriptación que utilizaremos son las siguientes: || The cryptographic keys we shall use are as it follows below:
 
@@ -71,7 +71,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes: || The crypto
 * La letra "o" es convertida a "ober". || The letter "o" is converted to "ober".
 * La letra "u" es convertida a "ufat". || The letter "u" is converted to "ufat".
 
-# 2. 1. Requisitos: || Requirements
+### 2. 1. Requisitos: || Requirements
 
 Aquí los requisitos señalados por el curso: || Here are the course requirements:
 
@@ -89,13 +89,13 @@ Por ejemplo: || For example:
 
 El resultado deberá ser mostrado en la pantalla. ||Result should be displayed on the screen.
 
-# 2. 2. Extras:
+### 2. 2. Extras:
 
 Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del "ctrl + c" o de la opción "copiar" del menú de aplicaciones. || A button that copies encrypted/decrypted text for transfer section, that is, it shall have the same functionality as "ctrl+ c" or the "copy" option, in the application menu.
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-# 3. Instalación || Installation:
+## 3. Instalación || Installation:
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -115,7 +115,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-# 4. Uso || Usage:
+## 4. Uso || Usage:
 
 Usar My Awesome App es muy sencillo. Estos son los pasos básicos:
 - Inicia la aplicación haciendo doble clic en el icono del escritorio o buscándola en el menú Inicio.
@@ -125,7 +125,7 @@ Usar My Awesome App es muy sencillo. Estos son los pasos básicos:
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-# 5. Características || Features:
+## 5. Características || Features:
 
 My Awesome App ofrece las siguientes características clave:
 - Característica 1: Describe la primera característica y su funcionalidad.
@@ -136,7 +136,7 @@ My Awesome App ofrece las siguientes características clave:
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-# 6. Problemas conocidos || Known Issues:
+## 6. Problemas conocidos || Known Issues:
 
 Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos problemas conocidos en esta versión de My Awesome App:
 - Problema 1: Describe el primer problema conocido y su impacto.
@@ -145,7 +145,7 @@ Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos 
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-# 7. Licencia || License:
+## 7. Licencia || License:
 
 En la medida en que la ley lo permite, Darkgenes ha renunciado a todos los derechos de autor y derechos afines o conexos sobre esta obra. || To the extent possible under law, Darkgenes has waived all copyright and related or neighboring rights to this work.
 
@@ -153,7 +153,7 @@ En la medida en que la ley lo permite, Darkgenes ha renunciado a todos los derec
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-# 8. Contacto || Contact:
+## 8. Contacto || Contact:
 
 Para cualquier pregunta, duda o comentario, ponte en contacto con el siguiente canal: || For any questions, doubts or comments, please contact the following channel:
 - Correo electrónico || email: cristhiam2000g@gmail.com

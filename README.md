@@ -22,13 +22,13 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 
 </div>  
 
-# =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+# =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 
 <h2>Nombre del Proyecto || Project Name: Encryptor_Challenge</h2>
 <h3>Versión || Version: 1.0.0</h3>
 <h3>Fecha || Date: 23/05/2023</h3>
 
-# =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+# =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 
 <details>
   <summary><b>Tabla de contenidos || Table of contents:</b></summary>
@@ -53,7 +53,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 </details>
 
 <p align = "right">(<a href = "#readme-bottom">go to bottom</a>)</p>
-# =======================================
+# =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 
 ## 1. Introducción || Introduction
 

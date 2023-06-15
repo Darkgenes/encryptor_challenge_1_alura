@@ -52,7 +52,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
   </ol>
 </details>
 
-<p align = "right">(<a href = "#readme-bottom">go to bottom</a>)</p>
+<p align = "right">(<a href = "#readme-bottom">Go to bottom</a>)</p>
 
 ## 1. Introducción || Introduction
 

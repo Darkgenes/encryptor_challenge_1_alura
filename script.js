@@ -12,7 +12,7 @@ borra.style.display = "none"
 //First function: Text validation
 function validarTexto(){
     let textoEscrito = document.querySelector(".text").value; //Select text
-    let validador = textoEscrito.match(/^[a-z]*$/); //check if it's lowercase and nth else
+    let validador = textoEscrito.match(/^[a-z\s]*$/); //check if it's lowercase and nth else
 
     if(!validador || validador === 0) { //validor don't match with lowercase or it's empty
         alert("Solo son permitidas letras minúsculas y sin acentos") //Message pop-up

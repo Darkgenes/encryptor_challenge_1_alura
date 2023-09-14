@@ -18,8 +18,13 @@ main{
 }
 
 .text{
+    resize: none;  
+    width: 700px;
+    height: 450px;
     border: none;
-    margin-top: 50px;
+    color: #0A3871;
+    margin-top: 30px;
+    padding: 2px;
     text-transform: lowercase; /*Control capitalization (lowecase only in this case)*/
 }
 
@@ -33,7 +38,9 @@ main{
 }
 
 .message{
-    height: 630px;
+    resize: none;
+    width: 450px;
+    height: 620px;
     background: white;
     background-image: url("/imagenes/Muñeco.png");
     background-repeat: no-repeat;
@@ -41,8 +48,8 @@ main{
     border: none;
     border-radius: 24px;
     color: #0A3871;
-    margin-left: 98px;
-    margin-top: 20px;
+    margin-left: 50px;
+    padding-top: 20px;
     padding-left: 20px;
     position: fixed;
 }
@@ -53,6 +60,11 @@ main{
 
 .botones{
     display: flex;
+    margin: 15px 12px 0 12px;
+}
+
+.btn-desencriptar{
+    text-align: center;
     margin-top: 18px;
 }
 
@@ -63,6 +75,12 @@ main{
     color: #0A3871;
     cursor: pointer;
     height: 67px;
+    width: 328px;
+    margin-left: 20px;
+}
+
+.btn-encriptar{
+    text-align: center;
     margin-left: 30px;
     width: 328px;
 }
@@ -78,18 +96,41 @@ main{
 }
 
 .copiar{
+    text-align: center;
     border: 1px solid #0A3871;
     border-radius: 24px;
     color: #0A3871;
     cursor: pointer;
     height: 67px;
-    margin-left: 120px;
-    margin-top: 565px;
+    width: 200px;
+    margin-left: 75px;
+    margin-top: 525px;
     position: absolute;
-    width: 336px;
+}
+
+.borrar{
+    text-align: center;
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    color: #0A3871;
+    cursor: pointer;
+    height: 67px;
+    width: 200px;
+    margin-left: 305px;
+    margin-top: 525px;
+    position: absolute;
 }
 
 .info{
     color: #495057;
-    font-size:18px;
+    font-size:12px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.image_doll{
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 100px;
+    width: 395px;
 }

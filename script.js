@@ -47,10 +47,10 @@ function btnEncriptar(){
     }
 }
 
-function desencriptar(stringDesencriptada){
+function desencriptar(stringDesencriptada){ //Same logic btnEncriptar but in reverse
     let matrizCodigo = [["e", "enter"], ["i", "imes"], ["a", "ai"], ["o", "ober"], ["u", "ufat"]];
     stringDesencriptada = stringDesencriptada.toLowerCase();
-
+    
     for(let i = 0; i < matrizCodigo.length; i++){
         if(stringDesencriptada.includes(matrizCodigo[i][1])){
             stringDesencriptada = stringDesencriptada.replaceAll(matrizCodigo[i][1] , matrizCodigo[i][0]);
@@ -86,4 +86,3 @@ function borrar(){
     borra.style.display = "none";
     image.style.display = "block"; //Clean background image
 }
-

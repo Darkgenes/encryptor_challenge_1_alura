@@ -96,6 +96,7 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 
 ## 3. Página web || Website:
 Puedes visualizar y revisar el resultado con el siguiente enlace: || You can visualize and check the results with the next link bellow:
+
 https://darkgenes.github.io/encryptor_challenge_1_alura/
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>

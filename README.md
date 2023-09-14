@@ -94,53 +94,29 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-## 3. Instalación || Installation:
+## 3. Página web || Website:
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+https://darkgenes.github.io/encryptor_challenge_1_alura/
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 ## 4. Uso || Usage:
 
-Usar My Awesome App es muy sencillo. Estos son los pasos básicos:
-- Inicia la aplicación haciendo doble clic en el icono del escritorio o buscándola en el menú Inicio.
-- Familiarízate con la interfaz principal y las opciones disponibles.
-- Personaliza los ajustes de la aplicación según tus preferencias.
-- Empieza a utilizar las distintas funciones y ¡disfruta de sus ventajas!
+Primero debes escribir en el apartado "Ingrese su texto aquí" (recordando que este no permitirá letras mayúsculas y en caso de caracteres especiales se enviará un mensaje diciendo que esto no es posible y se reiniciará la página). Usa el bóton "Encriptar" para poder realizar la encriptación y el botón "Desencriptar" para la desencriptación. Luego verás reflejado el resultado en el cuadro texto derecho. 
+
+Después, puedes decidir si borrar el texto resultante con el botón "borrar" o copiar este texto con el botón "copiar". 
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 ## 5. Características || Features:
 
-My Awesome App ofrece las siguientes características clave:
-- Característica 1: Describe la primera característica y su funcionalidad.
-- Característica 2: Explica la segunda característica y su utilidad.
-- Característica 3: Destaca la tercera característica y sus ventajas.
-- Característica 4: Mencione la cuarta característica y por qué destaca.
-- Característica 5: Proporcione detalles sobre la quinta característica y sus ventajas.
+Además de las características que debe poseer esta solución según los requisitos y extras, se añadió un botón de borrado. || In addition to the features that this solution must have according to the requirements and extras, a delete button was added.
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
-## 6. Problemas conocidos || Known Issues:
+## 6. Limitaciones || Limitations:
 
-Aunque nos esforzamos por ofrecer una experiencia libre de errores, hay algunos problemas conocidos en esta versión de My Awesome App:
-- Problema 1: Describe el primer problema conocido y su impacto.
-- Problema 2: Explica el segundo problema conocido y las soluciones disponibles.
-- Problema 3: Destaque el tercer problema conocido y su fecha de resolución prevista.
+Se trata de un desafío básico dentro del programa ONE, por lo que no debería ser usado como un encriptador profesional. || This is a basic challenge within the ONE program, so it should not be used as a professional encryptor.
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 

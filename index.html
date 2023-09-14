@@ -3,7 +3,8 @@
 <head>
     <meta charset = "UTF-8">
     <meta name = "viewport" content = " width = device-width, initial-scale = 1.0">
-    <link rel = "stylesheet" href = "style.css"> <!-- Linking to css file -->
+    <link rel = "stylesheet" href = "/style.css"> <!-- Linking to css file -->
+    <link rel = "stylesheet" href = "/reset.css">
     <!--Inter font; source: google fonts-->
     <link rel = "preconnect" href = "https://fonts.googleapis.com">
     <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
@@ -13,7 +14,6 @@
 <body>
     <header>
         <img src = "/images/Frame 6.png" alt = "Logo de Alura" class = "logo">
-
     </header>
     <main>
         <section>
@@ -28,7 +28,7 @@
         </section>
         
         <section>
-            <textarea class = "message" cols = "30" rows = "10" placeholder = "Mensaje encriptado o desencriptado."></textarea>
+            <textarea class = "message" cols = "30" rows = "10" placeholder = "Mensaje encriptado o desencriptado." readonly></textarea>
             <div>
                 <img src = "/images/Muñeco.png" alt = "No hay mensaje disponible" class = "image_doll">
                 <button class = "copiar" onclick = "copiar()">Copiar</button>
@@ -36,6 +36,6 @@
             </div>
         </section>
     </main>
-<script src = "/script.js"></script> <!--Linked to a .js file-->
+<script src = "/script.js"></script> <!--Linked to a js file-->
 </body>
 </html>

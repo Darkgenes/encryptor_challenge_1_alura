@@ -103,9 +103,9 @@ https://darkgenes.github.io/encryptor_challenge_1_alura/
 
 ## 4. Uso || Usage:
 
-Primero debes escribir en el apartado "Ingrese su texto aquí" (recordando que este no permitirá letras mayúsculas y en caso de caracteres especiales se enviará un mensaje diciendo que esto no es posible y se reiniciará la página). Usa el bóton "Encriptar" para poder realizar la encriptación y el botón "Desencriptar" para la desencriptación. Luego verás reflejado el resultado en el cuadro texto derecho. 
+Primero debes escribir en el apartado "Ingrese su texto aquí" (recordando que este no permitirá letras mayúsculas y en caso de caracteres especiales se enviará un mensaje diciendo que esto no es posible y se reiniciará la página). Usa el botón "Encriptar" para poder realizar la encriptación y el botón "Desencriptar" para la desencriptación. Luego verás reflejado el resultado en el cuadro texto derecho. || First you must type in the "Enter your text here" section (remembering that this will not allow capital letters and in case of special characters a message will be sent saying that this is not possible and the page will be restarted). Use the "Encrypt" button to perform the encryption and the "Decrypt" button for decryption. You will then see the result reflected in the right text box. 
 
-Después, puedes decidir si borrar el texto resultante con el botón "borrar" o copiar este texto con el botón "copiar". 
+Después, puedes decidir si borrar el texto resultante con el botón "borrar" o copiar este texto con el botón "copiar". || Afterwards, you can decide whether to delete the resulting text with the "delete" button or copy this text with the "copy" button.
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
